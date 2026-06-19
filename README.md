@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql" />
 </p>
 
 ## 📖 Próximos Passos
