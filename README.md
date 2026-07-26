@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Davi Gomes dos Santos</h1>
+<h1 align="center">👋 Olá, meu nome é Davi Gomes dos Santos</h1>
 
 <p align="center">
   <a href="https://leetcode.com/u/DaviGomes/">
