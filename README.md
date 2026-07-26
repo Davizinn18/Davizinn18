@@ -15,18 +15,11 @@
 </p>
 
 📚 Atualmente estudando:
-- Lógica de Programação
+- Lógica de Programação com Python
 - SQL & MySQL
-- Git & GitHub
 
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql" />
-</p>
-
-## 📖 Próximos Passos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,mysql,python" />
 </p>
