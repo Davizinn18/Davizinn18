@@ -16,7 +16,6 @@
 
 📚 Atualmente estudando:
 - Lógica de Programação com Python
-- SQL & MySQL
 
 ## 🛠️ Tecnologias
 
